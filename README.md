@@ -28,5 +28,5 @@
 
 [第十六周学习报告](https://github.com/yuyechang/summary/blob/master/%E7%AC%AC%E5%8D%81%E5%85%AD%E5%91%A8%E5%AD%A6%E4%B9%A0%E6%8A%A5%E5%91%8A.md)
 
-[署期考核1](https://github.com/yuyechang/summary/blob/master/%E7%AC%AC%E5%8D%81%E5%85%AD%E5%91%A8%E5%AD%A6%E4%B9%A0%E6%8A%A5%E5%91%8A.md)
+[署期考核1](https://github.com/yuyechang/summary/blob/master/%E7%BD%B2%E6%9C%9F%E8%80%83%E6%A0%B81.md)
 
